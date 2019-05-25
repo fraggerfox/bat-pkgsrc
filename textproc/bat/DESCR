@@ -1,3 +1,1 @@
-ripgrep is a line-oriented search tool that recursively searches
-your current directory for a regex pattern while respecting your
-gitignore rules.
+A cat(1) clone with syntax highlighting and Git integration.
