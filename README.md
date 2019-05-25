@@ -3,7 +3,7 @@ bat-pkgsrc
 
 NetBSD pkgsrc script for script for `bat`.
 
-You can find bat [here][1]
+You can find `bat` [here][1]
 
 NOTE: This package is not yet available in the pkgsrc tree.
 
@@ -32,6 +32,8 @@ Credits
 -------
 
 * `bat` is developed and maintained by the [David Peter][3]
+* Thanks to `@coypoop` and `leot@` for reviewing and suggesting fixes to the
+  package.
 
 License
 -------
