@@ -31,7 +31,7 @@ NOTE: If you are using pkgsrc in a non NetBSD system, replace `make` with
 Credits
 -------
 
-* `bat` is developed and maintained by the [David Peter][3]
+* `bat` is developed and maintained by [David Peter][3].
 * Thanks to `@coypoop` and `leot@` for reviewing and suggesting fixes to the
   package.
 
