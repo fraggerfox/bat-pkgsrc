@@ -1,11 +1,9 @@
 bat-pkgsrc
 ==========
 
-NetBSD pkgsrc script for script for `bat`.
+NetBSD [pkgsrc][4] script for script for `bat`.
 
 You can find `bat` [here][1]
-
-NOTE: This package is not yet available in the pkgsrc tree.
 
 Installation
 ------------
@@ -43,3 +41,4 @@ BSD 2-clause. See LICENSE.
 [1]: https://github.com/sharkdp/bat
 [2]: https://github.com/sharkdp/bat#installation
 [3]: https://david-peter.de/
+[4]: http://pkgsrc.se/textproc/bat
