@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: patch-vendor_termios_src_os_mod.rs,v 1.1 2019/07/18 00:11:46 fox Exp $
 
 Upstream PR is wip: https://github.com/dcuddeback/termios-rs/pull/22
 

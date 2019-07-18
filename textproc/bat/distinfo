@@ -1,4 +1,4 @@
-$NetBSD: distinfo,v 1.2 2019/04/12 08:08:48 maya Exp $
+$NetBSD: distinfo,v 1.1 2019/07/18 00:11:45 fox Exp $
 
 SHA1 (bat/adler32-1.0.3.crate) = d72a6705a1b94eb48c0fc7bd8ab357d4eb9c6ee6
 RMD160 (bat/adler32-1.0.3.crate) = 2860e381b2c52325b1b8befb3b6db0727f0eb66b
