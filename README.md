@@ -1,7 +1,7 @@
 bat-pkgsrc
 ==========
 
-NetBSD [pkgsrc][4] script for script for `bat`.
+NetBSD [pkgsrc][4] script for `bat`.
 
 You can find `bat` [here][1]
 
