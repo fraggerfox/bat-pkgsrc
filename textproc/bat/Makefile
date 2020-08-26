@@ -1,6 +1,7 @@
-# $NetBSD: Makefile,v 1.12 2020/05/30 00:08:34 fox Exp $
+# $NetBSD: Makefile,v 1.14 2020/08/14 20:50:22 tnn Exp $
 
 DISTNAME=	bat-0.15.4
+PKGREVISION=	1
 CATEGORIES=	textproc
 MASTER_SITES=	${MASTER_SITE_GITHUB:=sharkdp/}
 GITHUB_TAG=	v${PKGVERSION_NOREV}
@@ -180,9 +181,6 @@ CARGO_CRATE_DEPENDS+=	xml-rs-0.8.2
 CARGO_CRATE_DEPENDS+=	yaml-rust-0.4.3
 
 INSTALLATION_DIRS=	bin ${PKGMANDIR}/man1
-
-do-build:
-	cd ${WRKSRC} && ${SETENV} ${MAKE_ENV} ${PREFIX}/bin/cargo build --locked --frozen --release -j${_MAKE_JOBS_N}
 
 do-install:
 	${INSTALL_PROGRAM} ${WRKSRC}/target/release/bat ${DESTDIR}${PREFIX}/bin
