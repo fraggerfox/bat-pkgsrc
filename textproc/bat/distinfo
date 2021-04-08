@@ -1,4 +1,4 @@
-$NetBSD: distinfo,v 1.11 2020/11/29 13:47:37 fox Exp $
+$NetBSD: distinfo,v 1.12 2021/03/11 19:25:04 fox Exp $
 
 SHA1 (bat/adler-0.2.3.crate) = ae30cb68d1f00d7a099ad4edfd4092e16b3a2342
 RMD160 (bat/adler-0.2.3.crate) = 61a93e93ee0eb717ccb04763b23e17c89bba51ca

@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.17 2020/11/29 13:47:37 fox Exp $
+# $NetBSD: Makefile,v 1.18 2021/03/11 19:25:04 fox Exp $
 
 DISTNAME=	bat-0.18.0
 CATEGORIES=	textproc
